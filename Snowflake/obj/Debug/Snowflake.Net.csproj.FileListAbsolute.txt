@@ -1,0 +1,12 @@
+E:\work\snowflake-net-master\Snowflake\bin\Debug\Snowflake.Net.dll
+E:\work\snowflake-net-master\Snowflake\bin\Debug\Snowflake.Net.pdb
+E:\work\snowflake-net-master\Snowflake\obj\Debug\Snowflake.Net.csprojResolveAssemblyReference.cache
+E:\work\snowflake-net-master\Snowflake\obj\Debug\Snowflake.Net.csproj.CoreCompileInputs.cache
+E:\work\snowflake-net-master\Snowflake\obj\Debug\Snowflake.Net.dll
+E:\work\snowflake-net-master\Snowflake\obj\Debug\Snowflake.Net.pdb
+E:\work\Comb\Snowflake\bin\Debug\Snowflake.Net.dll
+E:\work\Comb\Snowflake\bin\Debug\Snowflake.Net.pdb
+E:\work\Comb\Snowflake\obj\Debug\Snowflake.Net.csproj.CoreCompileInputs.cache
+E:\work\Comb\Snowflake\obj\Debug\Snowflake.Net.dll
+E:\work\Comb\Snowflake\obj\Debug\Snowflake.Net.pdb
+E:\work\Comb\Snowflake\obj\Debug\Snowflake.Net.csprojResolveAssemblyReference.cache

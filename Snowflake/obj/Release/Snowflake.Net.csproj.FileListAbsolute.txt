@@ -1,0 +1,6 @@
+E:\work\Comb\Snowflake\bin\Release\Snowflake.Net.dll
+E:\work\Comb\Snowflake\bin\Release\Snowflake.Net.pdb
+E:\work\Comb\Snowflake\obj\Release\Snowflake.Net.csproj.CoreCompileInputs.cache
+E:\work\Comb\Snowflake\obj\Release\Snowflake.Net.dll
+E:\work\Comb\Snowflake\obj\Release\Snowflake.Net.pdb
+E:\work\Comb\Snowflake\obj\Release\Snowflake.Net.csprojResolveAssemblyReference.cache
